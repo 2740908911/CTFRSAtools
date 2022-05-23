@@ -1,0 +1,1146 @@
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, 
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, Starting factorization of 920139713
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, Fermat method found factors:
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, prp5 = 49891
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, prp5 = 18443
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, 
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, Starting factorization of 920139713
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, Fermat method found factors:
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, prp5 = 49891
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, prp5 = 18443
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0050 seconds
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, 
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, Starting factorization of 98554799767
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, Fermat method found factors:
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, prp6 = 966233
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, prp6 = 101999
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, 
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, Starting factorization of 69343391982073836527260787066436662760820725339907775857387709078502658633087
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, ****************************
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C77
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C77
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C77
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.69
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C77 input, B1=2K, B2=gmp-ecm default
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 23.69
+09/12/21 22:59:55 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C77 input, B1=11K, B2=gmp-ecm default
+09/12/21 22:59:55 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+09/12/21 22:59:55 v1.34.5 @ 灰色战斗机, scheduled 149 curves at B1=50000 toward target pretesting depth of 23.69
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, Finished 149 curves using Lenstra ECM method on C77 input, B1=50K, B2=gmp-ecm default
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, final ECM pretested depth: 23.72
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, scheduler: switching to sieve method
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, starting SIQS on c77: 69343391982073836527260787066436662760820725339907775857387709078502658633087
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, random seeds: 630947464, 2509413457
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, ==== sieve params ====
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, n = 78 digits, 259 bits
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, factor base: 36160 primes (max prime = 910127)
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, single large prime cutoff: 77360795 (85 * pmax)
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, allocating 7 large prime slices of factor base
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, buckets hold 2048 elements
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using 32k sieve core
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, sieve interval: 10 blocks of size 32768
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, polynomial A has ~ 10 factors
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using multiplier of 7
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using SPV correction of 20 bits, starting at offset 34
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using SSE2 for trial division and x64 sieve scanning
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using SSE4.1 enabled 32k sieve core
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, using SSE2 for resieving 13-16 bit primes
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, trial factoring cutoff at 90 bits
+09/12/21 23:00:06 v1.34.5 @ 灰色战斗机, ==== sieving started (1 thread) ====
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, trial division touched 3019555 sieve locations out of 44285952000
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, 36244 relations found: 18764 full + 17480 from 186907 partial, using 67575 polys (264 A polys)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, on average, sieving found 3.04 rels/poly and 3204.36 rels/sec
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, trial division touched 3019555 sieve locations out of 44285952000
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, ==== post processing stage (msieve-1.38) ====
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, begin with 205671 relations
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, reduce to 51533 relations in 2 passes
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, recovered 51533 relations
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, recovered 35999 polynomials
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, freed 21 duplicate relations
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, attempting to build 36223 cycles
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, found 36223 cycles in 1 passes
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, distribution of cycle lengths:
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机,    length 1 : 18761
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机,    length 2 : 17462
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, largest cycle: 2 relations
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, matrix is 36160 x 36223 (5.1 MB) with weight 1055293 (29.13/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, sparse part has weight 1055293 (29.13/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, filtering completed in 3 passes
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, matrix is 25831 x 25894 (4.1 MB) with weight 855252 (33.03/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, sparse part has weight 855252 (33.03/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, saving the first 48 matrix rows for later
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, matrix is 25783 x 25894 (3.3 MB) with weight 696059 (26.88/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, sparse part has weight 617155 (23.83/col)
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, matrix includes 64 packed rows
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, using block size 10357 for processor cache size 8192 kB
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, commencing Lanczos iteration
+09/12/21 23:01:11 v1.34.5 @ 灰色战斗机, memory use: 3.1 MB
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, lanczos halted after 409 iterations (dim = 25781)
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, recovered 16 nontrivial dependencies
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, prp39 = 226134486267985710544345427491176087287
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, prp39 = 306646691207889915109374013611076713401
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, Lanczos elapsed time = 1.1170 seconds.
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, Sqrt elapsed time = 0.0160 seconds.
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, SIQS elapsed time = 65.3170 seconds.
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, 
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, 
+09/12/21 23:01:12 v1.34.5 @ 灰色战斗机, Total factoring time = 78.6723 seconds
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, 
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, ****************************
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, Starting factorization of 86934482296048119190666062003494800588905656017203025617216654058378322103517
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, ****************************
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C77
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C77
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C77
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.69
+09/14/21 21:41:38 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C77 input, B1=2K, B2=gmp-ecm default
+09/14/21 21:41:38 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+09/14/21 21:41:38 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 23.69
+09/14/21 21:41:39 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C77 input, B1=11K, B2=gmp-ecm default
+09/14/21 21:41:39 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+09/14/21 21:41:39 v1.34.5 @ 灰色战斗机, scheduled 149 curves at B1=50000 toward target pretesting depth of 23.69
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, Finished 149 curves using Lenstra ECM method on C77 input, B1=50K, B2=gmp-ecm default
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, final ECM pretested depth: 23.72
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, scheduler: switching to sieve method
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, starting SIQS on c77: 86934482296048119190666062003494800588905656017203025617216654058378322103517
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, random seeds: 1094424942, 2454604824
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, ==== sieve params ====
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, n = 79 digits, 261 bits
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, factor base: 36160 primes (max prime = 918587)
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, single large prime cutoff: 78079895 (85 * pmax)
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, allocating 7 large prime slices of factor base
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, buckets hold 2048 elements
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using 32k sieve core
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, sieve interval: 10 blocks of size 32768
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, polynomial A has ~ 10 factors
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using multiplier of 37
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using SPV correction of 21 bits, starting at offset 34
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using SSE2 for trial division and x64 sieve scanning
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using SSE4.1 enabled 32k sieve core
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, using SSE2 for resieving 13-16 bit primes
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, trial factoring cutoff at 90 bits
+09/14/21 21:41:51 v1.34.5 @ 灰色战斗机, ==== sieving started (1 thread) ====
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, trial division touched 2730340 sieve locations out of 43450368000
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, 36234 relations found: 19022 full + 17212 from 186085 partial, using 66300 polys (259 A polys)
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, on average, sieving found 3.09 rels/poly and 3288.71 rels/sec
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, trial division touched 2730340 sieve locations out of 43450368000
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, ==== post processing stage (msieve-1.38) ====
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, begin with 205107 relations
+09/14/21 21:42:53 v1.34.5 @ 灰色战斗机, reduce to 51180 relations in 2 passes
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, recovered 51180 relations
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, recovered 35722 polynomials
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, freed 10 duplicate relations
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, attempting to build 36224 cycles
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, found 36224 cycles in 1 passes
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, distribution of cycle lengths:
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机,    length 1 : 19022
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机,    length 2 : 17202
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, largest cycle: 2 relations
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, matrix is 36160 x 36224 (5.2 MB) with weight 1065334 (29.41/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, sparse part has weight 1065334 (29.41/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, filtering completed in 3 passes
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, matrix is 25256 x 25320 (4.0 MB) with weight 845562 (33.40/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, sparse part has weight 845562 (33.40/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, saving the first 48 matrix rows for later
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, matrix is 25208 x 25320 (3.3 MB) with weight 688343 (27.19/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, sparse part has weight 616640 (24.35/col)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, matrix includes 64 packed rows
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, using block size 10128 for processor cache size 8192 kB
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, commencing Lanczos iteration
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, memory use: 3.0 MB
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, lanczos halted after 400 iterations (dim = 25206)
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, recovered 16 nontrivial dependencies
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, prp39 = 304008741604601924494328155975272418463
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, prp39 = 285960468890451637935629440372639283459
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, Lanczos elapsed time = 1.0790 seconds.
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, Sqrt elapsed time = 0.0600 seconds.
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, SIQS elapsed time = 63.5063 seconds.
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, 
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, 
+09/14/21 21:42:54 v1.34.5 @ 灰色战斗机, Total factoring time = 77.0596 seconds
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, 
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, ****************************
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, Starting factorization of 10456335904838169914349646852830082932152130624533179855437700729986430916359910968035371355128152016750075271161129744979254605922991030753616570849211931989112941277121682363790710646503345520505931418350219098036569932546893477983585713668853372819392130314661542626399462820378837771792293945490048339575869129479058678981790418112887403292721775644533540769467889512773382494878291574262142755186374570245813695390664702262226281601456889176191920270658811753696081082528539263191477192236336112147705564796435800152614366113854349615104191052807647128834113146535639155857819697492608839941056356828288393881491
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, ****************************
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C617
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C617
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C617
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C617
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 189.85
+09/14/21 22:43:26 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C617 input, B1=2K, B2=gmp-ecm default
+09/14/21 22:43:26 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+09/14/21 22:43:26 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 189.85
+09/14/21 22:43:44 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C617 input, B1=11K, B2=gmp-ecm default
+09/14/21 22:43:44 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+09/14/21 22:43:44 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 189.85
+09/14/21 22:47:33 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C617 input, B1=50K, B2=gmp-ecm default
+09/14/21 22:47:33 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C617
+09/14/21 22:47:42 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+09/14/21 22:47:42 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 189.85
+09/14/21 23:23:45 v1.34.5 @ 灰色战斗机, Finished 430 curves using Lenstra ECM method on C617 input, B1=250K, B2=gmp-ecm default
+09/14/21 23:23:45 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 15M, B2 = gmp-ecm default on C617
+09/14/21 23:24:19 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 30.45
+09/14/21 23:24:19 v1.34.5 @ 灰色战斗机, scheduled 904 curves at B1=1000000 toward target pretesting depth of 189.85
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, 
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, Starting factorization of 1455925529734358105461406532259911790807347616464991065301847
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C61
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C61
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C61
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C61
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 18.77
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C61 input, B1=2K, B2=gmp-ecm default
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, scheduled 55 curves at B1=11000 toward target pretesting depth of 18.77
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, Finished 55 curves using Lenstra ECM method on C61 input, B1=11K, B2=gmp-ecm default
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, final ECM pretested depth: 18.89
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, scheduler: switching to sieve method
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, starting SIQS on c61: 1455925529734358105461406532259911790807347616464991065301847
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, random seeds: 340998482, 1210784908
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, ==== sieve params ====
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, n = 61 digits, 201 bits
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, factor base: 3824 primes (max prime = 78623)
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, single large prime cutoff: 4717380 (60 * pmax)
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, allocating 2 large prime slices of factor base
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, buckets hold 2048 elements
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using 32k sieve core
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, sieve interval: 4 blocks of size 32768
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, polynomial A has ~ 7 factors
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using multiplier of 2
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using SPV correction of 21 bits, starting at offset 35
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using SSE2 for trial division and x64 sieve scanning
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using SSE4.1 enabled 32k sieve core
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, using SSE2 for resieving 13-16 bit primes
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, trial factoring cutoff at 67 bits
+05/10/22 00:06:42 v1.34.5 @ 灰色战斗机, ==== sieving started (1 thread) ====
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, trial division touched 229555 sieve locations out of 2411200512
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, 3902 relations found: 1912 full + 1990 from 18475 partial, using 9198 polys (145 A polys)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, on average, sieving found 2.22 rels/poly and 10198.11 rels/sec
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, trial division touched 229555 sieve locations out of 2411200512
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, ==== post processing stage (msieve-1.38) ====
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, begin with 20387 relations
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, reduce to 5621 relations in 2 passes
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, recovered 5621 relations
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, recovered 4179 polynomials
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, freed 2 duplicate relations
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, attempting to build 3900 cycles
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, found 3900 cycles in 1 passes
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, distribution of cycle lengths:
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机,    length 1 : 1911
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机,    length 2 : 1989
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, largest cycle: 2 relations
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, matrix is 3824 x 3900 (0.5 MB) with weight 100109 (25.67/col)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, sparse part has weight 100109 (25.67/col)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, filtering completed in 3 passes
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, matrix is 3520 x 3584 (0.5 MB) with weight 91029 (25.40/col)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, sparse part has weight 91029 (25.40/col)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, commencing Lanczos iteration
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, memory use: 0.6 MB
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, lanczos halted after 57 iterations (dim = 3516)
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, recovered 63 nontrivial dependencies
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, prp31 = 1201147059438530786835365194567
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, prp31 = 1212112637077862917192191913841
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, Lanczos elapsed time = 0.0590 seconds.
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, Sqrt elapsed time = 0.0020 seconds.
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, SIQS elapsed time = 2.0598 seconds.
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, 
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, 
+05/10/22 00:06:44 v1.34.5 @ 灰色战斗机, Total factoring time = 3.3068 seconds
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, 
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, Starting factorization of 26737417831000820542131903300607349805884383394154602685589253691058592906354935906805134188533804962897170211026684453428204518730064406526279112572388086653330354347467824800159214965211971007509161988095657918569122896402683130342348264873834798355125176339737540844380018932257326719850776549178097196650971801959829891897782953799819540258181186971887122329746532348310216818846497644520553218363336194855498009339838369114649453618101321999347367800581959933596734457081762378746706371599215668686459906553007018812297658015353803626409606707460210905216362646940355737679889912399014237502529373804288304270563
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, Fermat method found factors:
+05/10/22 00:47:26 v1.34.5 @ 灰色战斗机, prp309 = 163515803000813412334620775647541652549604895368507102613553057136855632963322853570924931001138446030409251690646645635800254129997200577719209532684847732809399187385176309169421205833279943214621695444496660249881675974141488357432373412184140130503562295159152949524373214358417567189638680209172147385801
+05/10/22 00:47:30 v1.34.5 @ 灰色战斗机, prp309 = 163515803000813412334620775647541652549604895368507102613553057136855632963322853570924931001138446030409251690646645635800254129997200577719209532684847732809399187385176309169421205833279943214621695444496660249881675974141488357432373412184140130503562295159152949524373214358417567189638680209172147385163
+05/10/22 00:47:30 v1.34.5 @ 灰色战斗机, Total factoring time = 7.2477 seconds
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, 
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, Starting factorization of 59396430762790522278915120399748371955120838209299150176704354235923147397588628176417236966816605056710094680388295020152197143828209293834901515281796542492713682965548831465628723570792660008033302907446035388279704924684014913333908164405433590888783521129221804689973927572811855842994327960590856863761
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, div: found prime factor = 257
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, div: found prime factor = 797
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C302
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C302
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C302
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C302
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, prp10 = 8633365471
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 89.85
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, prp8 = 71413907 (curve 1 stg2 B1=2000 sigma=908259862 thread=0)
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, Finished 1 curves using Lenstra ECM method on C292 input, B1=2K, B2=gmp-ecm default
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, scheduled 29 curves at B1=2000 toward target pretesting depth of 87.38
+05/10/22 20:12:55 v1.34.5 @ 灰色战斗机, Finished 29 curves using Lenstra ECM method on C284 input, B1=2K, B2=gmp-ecm default
+05/10/22 20:12:55 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/10/22 20:12:55 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 87.38
+05/10/22 20:13:01 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C284 input, B1=11K, B2=gmp-ecm default
+05/10/22 20:13:01 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/10/22 20:13:01 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 87.38
+05/10/22 20:14:11 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C284 input, B1=50K, B2=gmp-ecm default
+05/10/22 20:14:11 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C284
+05/10/22 20:14:14 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+05/10/22 20:14:14 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 87.38
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, 
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, ****************************
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/10/22 20:20:45 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7613 seconds
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, 
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, ****************************
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, Starting factorization of 897607935780955837078784515115186203180822213482989041398073067996023639
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, ****************************
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C72
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C72
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C72
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C72
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 22.15
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C72 input, B1=2K, B2=gmp-ecm default
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 22.15
+05/12/22 00:19:22 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C72 input, B1=11K, B2=gmp-ecm default
+05/12/22 00:19:22 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/12/22 00:19:22 v1.34.5 @ 灰色战斗机, scheduled 83 curves at B1=50000 toward target pretesting depth of 22.15
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, prp24 = 876391552113414716726089 (curve 70 stg2 B1=50000 sigma=1276494927 thread=0)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, Finished 70 curves using Lenstra ECM method on C72 input, B1=50K, B2=gmp-ecm default
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, final ECM pretested depth: 21.88
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, scheduler: switching to sieve method
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, starting SIQS on c49: 1024208795276926045373476017226969288945214017951
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, random seeds: 1099825708, 3789545261
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, ==== sieve params ====
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, n = 50 digits, 166 bits
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, factor base: 1168 primes (max prime = 20333)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, single large prime cutoff: 1016650 (50 * pmax)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using 32k sieve core
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, sieve interval: 2 blocks of size 32768
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, polynomial A has ~ 6 factors
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using multiplier of 55
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using SPV correction of 22 bits, starting at offset 38
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using SSE2 for trial division and x32 sieve scanning
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using SSE4.1 enabled 32k sieve core
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, using SSE2 for resieving 13-16 bit primes
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, trial factoring cutoff at 50 bits
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, ==== sieving started (1 thread) ====
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, trial division touched 46193 sieve locations out of 110231552
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, 1239 relations found: 724 full + 515 from 4799 partial, using 841 polys (54 A polys)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, on average, sieving found 6.57 rels/poly and 38242.63 rels/sec
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, trial division touched 46193 sieve locations out of 110231552
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, ==== post processing stage (msieve-1.38) ====
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, begin with 5523 relations
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, reduce to 1700 relations in 2 passes
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, recovered 1700 relations
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, recovered 735 polynomials
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, attempting to build 1239 cycles
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, found 1239 cycles in 1 passes
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, distribution of cycle lengths:
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机,    length 1 : 724
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机,    length 2 : 515
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, largest cycle: 2 relations
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, matrix is 1168 x 1239 (0.1 MB) with weight 25615 (20.67/col)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, sparse part has weight 25615 (20.67/col)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, filtering completed in 3 passes
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, matrix is 1108 x 1172 (0.1 MB) with weight 24049 (20.52/col)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, sparse part has weight 24049 (20.52/col)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, commencing Lanczos iteration
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, memory use: 0.2 MB
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, lanczos halted after 19 iterations (dim = 1104)
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, recovered 63 nontrivial dependencies
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, prp25 = 1098382268985762240184333
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, prp24 = 932470255754103340237147
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, Lanczos elapsed time = 0.0280 seconds.
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, Sqrt elapsed time = 0.0010 seconds.
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, SIQS elapsed time = 0.1729 seconds.
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, 
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, 
+05/12/22 00:19:27 v1.34.5 @ 灰色战斗机, Total factoring time = 7.2839 seconds
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0050 seconds
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0056 seconds
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0056 seconds
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0058 seconds
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, 
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0056 seconds
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, 
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0055 seconds
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, 
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, 
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0056 seconds
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, 
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0056 seconds
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, 
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0053 seconds
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, 
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, 
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0057 seconds
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, 
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0050 seconds
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0091 seconds
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0051 seconds
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0062 seconds
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0054 seconds
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0068 seconds
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0057 seconds
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0050 seconds
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0070 seconds
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0066 seconds
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0063 seconds
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:36:46 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:36:46 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:36:46 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0065 seconds
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0060 seconds
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0062 seconds
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0062 seconds
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, 
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, 
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, 
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, Starting factorization of 34
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, 
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0061 seconds
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, 
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0063 seconds
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0063 seconds
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0076 seconds
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, Starting factorization of 68
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, div: found prime factor = 17
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, Starting factorization of 12
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, div: found prime factor = 3
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0080 seconds
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, Starting factorization of 2
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0071 seconds
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, 
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, Starting factorization of 2
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, ****************************
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, div: found prime factor = 2
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, Total factoring time = 0.0080 seconds
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, 
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, ****************************
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, Starting factorization of 86934482296048119190666062003494800588905656017203025617216654058378322103517
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, ****************************
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C77
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C77
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C77
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C77
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 23.69
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C77 input, B1=2K, B2=gmp-ecm default
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 23.69
+05/23/22 01:04:57 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C77 input, B1=11K, B2=gmp-ecm default
+05/23/22 01:04:57 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/23/22 01:04:57 v1.34.5 @ 灰色战斗机, scheduled 149 curves at B1=50000 toward target pretesting depth of 23.69
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, Finished 149 curves using Lenstra ECM method on C77 input, B1=50K, B2=gmp-ecm default
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, final ECM pretested depth: 23.72
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, scheduler: switching to sieve method
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, starting SIQS on c77: 86934482296048119190666062003494800588905656017203025617216654058378322103517
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, random seeds: 1092053950, 916276514
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, ==== sieve params ====
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, n = 79 digits, 261 bits
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, factor base: 36160 primes (max prime = 918587)
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, single large prime cutoff: 78079895 (85 * pmax)
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, allocating 7 large prime slices of factor base
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, buckets hold 2048 elements
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using 32k sieve core
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, sieve interval: 10 blocks of size 32768
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, polynomial A has ~ 10 factors
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using multiplier of 37
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using SPV correction of 21 bits, starting at offset 34
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using SSE2 for trial division and x64 sieve scanning
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using SSE4.1 enabled 32k sieve core
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, using SSE2 for resieving 13-16 bit primes
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, trial factoring cutoff at 90 bits
+05/23/22 01:05:09 v1.34.5 @ 灰色战斗机, ==== sieving started (1 thread) ====
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, trial division touched 2707277 sieve locations out of 43116134400
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, 36349 relations found: 18946 full + 17403 from 185609 partial, using 65790 polys (257 A polys)
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, on average, sieving found 3.11 rels/poly and 3161.49 rels/sec
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, trial division touched 2707277 sieve locations out of 43116134400
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, ==== post processing stage (msieve-1.38) ====
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, begin with 204555 relations
+05/23/22 01:06:13 v1.34.5 @ 灰色战斗机, reduce to 51606 relations in 2 passes
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, recovered 51606 relations
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, recovered 35843 polynomials
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, freed 7 duplicate relations
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, attempting to build 36342 cycles
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, found 36342 cycles in 1 passes
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, distribution of cycle lengths:
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机,    length 1 : 18946
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机,    length 2 : 17396
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, largest cycle: 2 relations
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, matrix is 36160 x 36342 (5.2 MB) with weight 1070878 (29.47/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, sparse part has weight 1070878 (29.47/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, filtering completed in 3 passes
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, matrix is 25431 x 25493 (4.0 MB) with weight 849986 (33.34/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, sparse part has weight 849986 (33.34/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, saving the first 48 matrix rows for later
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, matrix is 25383 x 25493 (3.3 MB) with weight 692715 (27.17/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, sparse part has weight 623037 (24.44/col)
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, matrix includes 64 packed rows
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, using block size 10197 for processor cache size 8192 kB
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, commencing Lanczos iteration
+05/23/22 01:06:14 v1.34.5 @ 灰色战斗机, memory use: 3.0 MB
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, lanczos halted after 403 iterations (dim = 25381)
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, recovered 17 nontrivial dependencies
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, prp39 = 304008741604601924494328155975272418463
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, prp39 = 285960468890451637935629440372639283459
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, Lanczos elapsed time = 1.1470 seconds.
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, Sqrt elapsed time = 0.0310 seconds.
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, SIQS elapsed time = 65.8798 seconds.
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, 
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, 
+05/23/22 01:06:15 v1.34.5 @ 灰色战斗机, Total factoring time = 79.4478 seconds
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, Starting factorization of 22257605320525584078180889073523223973924192984353847137164605186956629675938929585386392327672065524338176402496414014083816446508860530887742583338880317478862512306633061601510404960095143941320847160562050524072860211772522478494742213643890027443992183362678970426046765630946644339093149139143388752794932806956589884503569175226850419271095336798456238899009883100793515744579945854481430194879360765346236418019384644095257242811629393164402498261066077339304875212250897918420427814000142751282805980632089867108525335488018940091698609890995252413007073725850396076272027183422297684667565712022199054289711
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C617
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C617
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C617
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C617
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, Starting factorization of 18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C617
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C617
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C617
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C617
+05/24/22 00:08:01 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/24/22 00:08:01 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 189.85
+05/24/22 00:08:02 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C617 input, B1=2K, B2=gmp-ecm default
+05/24/22 00:08:02 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/24/22 00:08:02 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 189.85
+05/24/22 00:08:21 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C617 input, B1=11K, B2=gmp-ecm default
+05/24/22 00:08:21 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/24/22 00:08:21 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 189.85
+05/24/22 00:12:18 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C617 input, B1=50K, B2=gmp-ecm default
+05/24/22 00:12:18 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C617
+05/24/22 00:12:27 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+05/24/22 00:12:27 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 189.85
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, Starting factorization of 18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C617
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C617
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C617
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C617
+05/24/22 00:12:41 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/24/22 00:12:41 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 189.85
+05/24/22 00:12:42 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C617 input, B1=2K, B2=gmp-ecm default
+05/24/22 00:12:42 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/24/22 00:12:42 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 189.85
+05/24/22 00:13:04 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C617 input, B1=11K, B2=gmp-ecm default
+05/24/22 00:13:04 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/24/22 00:13:04 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 189.85
+05/24/22 00:17:20 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C617 input, B1=50K, B2=gmp-ecm default
+05/24/22 00:17:20 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C617
+05/24/22 00:17:30 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+05/24/22 00:17:30 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 189.85
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, Starting factorization of 18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C617
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C617
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C617
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C617
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 189.85
+05/24/22 00:18:46 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C617 input, B1=2K, B2=gmp-ecm default
+05/24/22 00:18:46 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/24/22 00:18:46 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 189.85
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, Starting factorization of 468459887279781789188886188573017406548524570309663876064881031936564733341508945283407498306248145591559137207097347130203582813352382018491852922849186827279111555223982032271701972642438224730082216672110316142528108239708171781850491578433309964093293907697072741538649347894863899103340030347858867705231
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C309
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C309
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C309
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C309
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 95.08
+05/24/22 00:19:45 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C309 input, B1=2K, B2=gmp-ecm default
+05/24/22 00:19:45 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/24/22 00:19:45 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 95.08
+05/24/22 00:19:52 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C309 input, B1=11K, B2=gmp-ecm default
+05/24/22 00:19:52 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/24/22 00:19:52 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 95.08
+05/24/22 00:21:21 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C309 input, B1=50K, B2=gmp-ecm default
+05/24/22 00:21:21 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C309
+05/24/22 00:21:24 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+05/24/22 00:21:24 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 95.08
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, Starting factorization of 468459887279781789188886188573017406548524570309663876064881031936564733341508945283407498306248145591559137207097347130203582813352382018491852922849186827279111555223982032271701972642438224730082216672110316142528108239708171781850491578433309964093293907697072741538649347894863899103340030347858867705231
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, rho: x^2 + 3, starting 1000 iterations on C309
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, rho: x^2 + 2, starting 1000 iterations on C309
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, rho: x^2 + 1, starting 1000 iterations on C309
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 150K, B2 = gmp-ecm default on C309
+05/24/22 00:23:15 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 0.00
+05/24/22 00:23:15 v1.34.5 @ 灰色战斗机, scheduled 30 curves at B1=2000 toward target pretesting depth of 95.08
+05/24/22 00:23:15 v1.34.5 @ 灰色战斗机, Finished 30 curves using Lenstra ECM method on C309 input, B1=2K, B2=gmp-ecm default
+05/24/22 00:23:15 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 15.18
+05/24/22 00:23:15 v1.34.5 @ 灰色战斗机, scheduled 74 curves at B1=11000 toward target pretesting depth of 95.08
+05/24/22 00:23:23 v1.34.5 @ 灰色战斗机, Finished 74 curves using Lenstra ECM method on C309 input, B1=11K, B2=gmp-ecm default
+05/24/22 00:23:23 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 20.24
+05/24/22 00:23:23 v1.34.5 @ 灰色战斗机, scheduled 214 curves at B1=50000 toward target pretesting depth of 95.08
+05/24/22 00:24:51 v1.34.5 @ 灰色战斗机, Finished 214 curves using Lenstra ECM method on C309 input, B1=50K, B2=gmp-ecm default
+05/24/22 00:24:51 v1.34.5 @ 灰色战斗机, pm1: starting B1 = 3750K, B2 = gmp-ecm default on C309
+05/24/22 00:24:55 v1.34.5 @ 灰色战斗机, current ECM pretesting depth: 25.33
+05/24/22 00:24:55 v1.34.5 @ 灰色战斗机, scheduled 430 curves at B1=250000 toward target pretesting depth of 95.08
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:34:25 v1.34.5 @ 灰色战斗机, Total factoring time = 3.9027 seconds
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:37:43 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7345 seconds
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:41:19 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7506 seconds
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:49:29 v1.34.5 @ 灰色战斗机, Total factoring time = 3.8163 seconds
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:50:18 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7513 seconds
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, 
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 00:51:37 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7253 seconds
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, 
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 01:04:56 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7059 seconds
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, 
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, Starting factorization of 10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, using pretesting plan: normal
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, no tune info: using qs/gnfs crossover of 95 digits
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, ****************************
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, div: found prime factor = 97
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, prp309 = 106249972159566919549855203174197828387397831115262336234662051342543151219702510584956705611794290291345944183845955839244363030579896461607496959399297130227066841321473005074379950936513608503266587950271044991876848389878395867601515004796212227929894460104645781488319246866661398816686697306692491058609
+05/24/22 01:07:39 v1.34.5 @ 灰色战斗机, Total factoring time = 3.7410 seconds

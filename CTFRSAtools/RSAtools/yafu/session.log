@@ -1,0 +1,999 @@
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2973.922800
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, New random seeds: 3167057004, 3132514996
+
+09/12/21 22:52:41 v1.34.5 @ 灰色战斗机, Processing expression: factor(920139713)
+
+
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2970.351310
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, New random seeds: 4014080351, 959458780
+
+09/12/21 22:55:31 v1.34.5 @ 灰色战斗机, Processing expression: factor(920139713)
+
+
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2979.110710
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, New random seeds: 2128486785, 1833462940
+
+09/12/21 22:59:07 v1.34.5 @ 灰色战斗机, Processing expression: factor(98554799767)
+
+
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2991.853520
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, New random seeds: 1772665940, 474364860
+
+09/12/21 22:59:53 v1.34.5 @ 灰色战斗机, Processing expression: factor(69343391982073836527260787066436662760820725339907775857387709078502658633087)
+
+
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2970.990750
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, New random seeds: 2137472839, 3522685232
+
+09/14/21 21:41:37 v1.34.5 @ 灰色战斗机, Processing expression: factor(86934482296048119190666062003494800588905656017203025617216654058378322103517)
+
+
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2994.072900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, New random seeds: 1505717522, 3116965360
+
+09/14/21 22:43:24 v1.34.5 @ 灰色战斗机, Processing expression: factor(10456335904838169914349646852830082932152130624533179855437700729986430916359910968035371355128152016750075271161129744979254605922991030753616570849211931989112941277121682363790710646503345520505931418350219098036569932546893477983585713668853372819392130314661542626399462820378837771792293945490048339575869129479058678981790418112887403292721775644533540769467889512773382494878291574262142755186374570245813695390664702262226281601456889176191920270658811753696081082528539263191477192236336112147705564796435800152614366113854349615104191052807647128834113146535639155857819697492608839941056356828288393881491)
+
+
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3005.550600
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, New random seeds: 1019681527, 1306924336
+
+05/10/22 00:06:41 v1.34.5 @ 灰色战斗机, Processing expression: factor(1455925529734358105461406532259911790807347616464991065301847)
+
+
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2997.155100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, New random seeds: 3872063061, 3543294784
+
+05/10/22 00:47:22 v1.34.5 @ 灰色战斗机, Processing expression: factor(26737417831000820542131903300607349805884383394154602685589253691058592906354935906805134188533804962897170211026684453428204518730064406526279112572388086653330354347467824800159214965211971007509161988095657918569122896402683130342348264873834798355125176339737540844380018932257326719850776549178097196650971801959829891897782953799819540258181186971887122329746532348310216818846497644520553218363336194855498009339838369114649453618101321999347367800581959933596734457081762378746706371599215668686459906553007018812297658015353803626409606707460210905216362646940355737679889912399014237502529373804288304270563)
+
+
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2976.822280
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, New random seeds: 3411902134, 2460573564
+
+05/10/22 20:12:54 v1.34.5 @ 灰色战斗机, Processing expression: factor(59396430762790522278915120399748371955120838209299150176704354235923147397588628176417236966816605056710094680388295020152197143828209293834901515281796542492713682965548831465628723570792660008033302907446035388279704924684014913333908164405433590888783521129221804689973927572811855842994327960590856863761)
+
+
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2996.215800
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, New random seeds: 1360602390, 1713705400
+
+05/10/22 20:20:41 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2986.724250
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, New random seeds: 1766450032, 2177238920
+
+05/12/22 00:19:20 v1.34.5 @ 灰色战斗机, Processing expression: factor(897607935780955837078784515115186203180822213482989041398073067996023639)
+
+
+05/22/22 12:38:10 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3001.790250
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:38:10 v1.34.5 @ 灰色战斗机, New random seeds: 455888540, 381393808
+
+05/22/22 12:38:10 v1.34.5 @ 灰色战斗机, Processing expression: ;factor(34)
+
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2997.617700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, New random seeds: 2482547658, 2439215064
+
+05/22/22 12:39:57 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+
+05/22/22 12:40:09 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2989.301400
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:40:09 v1.34.5 @ 灰色战斗机, New random seeds: 231124426, 1715184896
+
+05/22/22 12:40:09 v1.34.5 @ 灰色战斗机, Processing expression: ;factor(34)
+
+05/22/22 12:53:31 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2979.920100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:53:31 v1.34.5 @ 灰色战斗机, New random seeds: 1514722728, 18508864
+
+05/22/22 12:53:31 v1.34.5 @ 灰色战斗机, Processing expression: factor(n)
+
+
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3005.552120
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, New random seeds: 3279863666, 114801300
+
+05/22/22 12:53:39 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2993.231400
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, New random seeds: 2768900572, 1131030656
+
+05/22/22 12:55:05 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2988.381300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, New random seeds: 2126089496, 257361220
+
+05/22/22 12:55:14 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2994.420020
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, New random seeds: 1435311932, 2819523520
+
+05/22/22 12:55:25 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3000.660900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, New random seeds: 1827757228, 2176837056
+
+05/22/22 12:57:59 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3009.104700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, New random seeds: 2356752200, 3421544264
+
+05/22/22 12:58:21 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2993.793300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, New random seeds: 1551894374, 3306371572
+
+05/22/22 13:01:58 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2984.310900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, New random seeds: 1648420308, 2088209216
+
+05/22/22 13:02:11 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2993.234400
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, New random seeds: 2248023328, 1054295516
+
+05/22/22 13:02:18 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3009.744900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, New random seeds: 858820794, 566193928
+
+05/22/22 13:02:39 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2975.195700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, New random seeds: 2993705790, 2658526288
+
+05/22/22 13:02:48 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3006.701250
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, New random seeds: 475974170, 3157964776
+
+05/22/22 14:56:58 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2998.626020
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, New random seeds: 1451838748, 438592740
+
+05/22/22 14:57:31 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3003.676220
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, New random seeds: 2042915126, 4292010484
+
+05/22/22 14:58:52 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3000.559820
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, New random seeds: 2387313582, 2441172780
+
+05/22/22 15:00:13 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2997.783450
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, New random seeds: 3787721076, 2784751408
+
+05/22/22 15:00:54 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2984.121900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, New random seeds: 3500967408, 2528895552
+
+05/22/22 15:01:52 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2985.928200
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, New random seeds: 1456038772, 1203460788
+
+05/22/22 15:02:16 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2989.622700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, New random seeds: 2319384082, 2025192788
+
+05/22/22 15:06:08 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3006.019520
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, New random seeds: 1813851776, 3628324792
+
+05/22/22 15:06:25 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3000.140720
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, New random seeds: 3628648740, 2096433720
+
+05/22/22 15:07:03 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2999.358620
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, New random seeds: 886321596, 1799552968
+
+05/22/22 15:07:28 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2993.360120
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, New random seeds: 3745314156, 2675443136
+
+05/22/22 15:07:38 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2990.271900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, New random seeds: 1443306948, 1452474136
+
+05/22/22 15:07:59 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2975.973600
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, New random seeds: 1751438588, 441540672
+
+05/22/22 15:10:07 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2998.359300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, New random seeds: 1414871148, 3683802076
+
+05/22/22 15:10:34 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:13:02 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2983.616100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, New random seeds: 1728495016, 1382734576
+
+05/22/22 15:13:03 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2985.502220
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, New random seeds: 3391155552, 1589177100
+
+05/22/22 15:13:18 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2990.860810
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, New random seeds: 589245424, 4021186720
+
+05/22/22 15:13:41 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2989.779000
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, New random seeds: 3379379454, 2180104192
+
+05/22/22 15:15:05 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2987.192700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, New random seeds: 1776530478, 2304141072
+
+05/22/22 15:16:15 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3008.870700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, New random seeds: 2991175464, 1820219200
+
+05/22/22 15:33:28 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3004.334400
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, New random seeds: 1023250262, 3133848560
+
+05/22/22 15:35:26 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2995.959450
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, New random seeds: 2462477224, 3456006928
+
+05/22/22 15:36:01 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2994.471900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, New random seeds: 3547946336, 1162934956
+
+05/22/22 15:36:45 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3006.440100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, New random seeds: 571497778, 1928833896
+
+05/22/22 15:38:18 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3021.151650
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, New random seeds: 2931038432, 3783016560
+
+05/22/22 15:39:23 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2976.289050
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, New random seeds: 1796677614, 445896192
+
+05/22/22 15:41:30 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2982.707100
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, New random seeds: 404307086, 2574616840
+
+05/22/22 15:42:05 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3003.927020
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, New random seeds: 2218092124, 4174291612
+
+05/22/22 16:45:42 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2993.281200
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, New random seeds: 1797647034, 328746784
+
+05/22/22 16:46:46 v1.34.5 @ 灰色战斗机, Processing expression: factor(34)
+
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2995.282500
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, New random seeds: 3645756508, 1251998228
+
+05/22/22 16:59:04 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3007.632320
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, New random seeds: 1342031988, 694773656
+
+05/22/22 16:59:47 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2995.513500
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, New random seeds: 4115899556, 3434127588
+
+05/22/22 17:05:47 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2997.445820
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, New random seeds: 1042614016, 838854208
+
+05/22/22 17:06:12 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2998.823400
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, New random seeds: 3396326412, 385833944
+
+05/22/22 17:07:03 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3002.439600
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, New random seeds: 3145350706, 4124592288
+
+05/22/22 17:07:25 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3000.943200
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, New random seeds: 3881035542, 2251072896
+
+05/22/22 17:09:58 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2991.644410
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, New random seeds: 2629457428, 2492393632
+
+05/22/22 17:10:13 v1.34.5 @ 灰色战斗机, Processing expression: factor(68)
+
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2992.149600
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, New random seeds: 4147527690, 4231710128
+
+05/22/22 17:10:32 v1.34.5 @ 灰色战斗机, Processing expression: factor(12)
+
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2998.971000
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, New random seeds: 1447491584, 2944368688
+
+05/22/22 17:13:53 v1.34.5 @ 灰色战斗机, Processing expression: factor(2)
+
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2991.776700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, New random seeds: 1982527094, 3814611764
+
+05/22/22 17:15:46 v1.34.5 @ 灰色战斗机, Processing expression: factor(2)
+
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2976.162000
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, New random seeds: 472068424, 3741318936
+
+05/23/22 01:04:55 v1.34.5 @ 灰色战斗机, Processing expression: factor(86934482296048119190666062003494800588905656017203025617216654058378322103517)
+
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2996.456420
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, New random seeds: 3555571275, 2047919424
+
+05/24/22 00:02:55 v1.34.5 @ 灰色战斗机, Processing expression: factor(22257605320525584078180889073523223973924192984353847137164605186956629675938929585386392327672065524338176402496414014083816446508860530887742583338880317478862512306633061601510404960095143941320847160562050524072860211772522478494742213643890027443992183362678970426046765630946644339093149139143388752794932806956589884503569175226850419271095336798456238899009883100793515744579945854481430194879360765346236418019384644095257242811629393164402498261066077339304875212250897918420427814000142751282805980632089867108525335488018940091698609890995252413007073725850396076272027183422297684667565712022199054289711)
+
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2995.155750
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, New random seeds: 2238689950, 3859039328
+
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2994.682930
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, New random seeds: 2682085308, 1872927144
+
+05/24/22 00:12:40 v1.34.5 @ 灰色战斗机, Processing expression: factor(18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761)
+
+
+05/24/22 00:08:00 v1.34.5 @ 灰色战斗机, Processing expression: factor(18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761)
+
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2994.273130
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, New random seeds: 4086223698, 1872326520
+
+05/24/22 00:18:44 v1.34.5 @ 灰色战斗机, Processing expression: factor(18970053728616609366458286067731288749022264959158403758357985915393383117963693827568809925770679353765624810804904382278845526498981422346319417938434861558291366738542079165169736232558687821709937346503480756281489775859439254614472425017554051177725143068122185961552670646275229009531528678548251873421076691650827507829859299300272683223959267661288601619845954466365134077547699819734465321345758416957265682175864227273506250707311775797983409090702086309946790711995796789417222274776215167450093735639202974148778183667502150202265175471213833685988445568819612085268917780718945472573765365588163945754761)
+
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3014.622900
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, New random seeds: 769106697, 4013666200
+
+05/24/22 00:19:44 v1.34.5 @ 灰色战斗机, Processing expression: factor(468459887279781789188886188573017406548524570309663876064881031936564733341508945283407498306248145591559137207097347130203582813352382018491852922849186827279111555223982032271701972642438224730082216672110316142528108239708171781850491578433309964093293907697072741538649347894863899103340030347858867705231)
+
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2980.550230
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, New random seeds: 549620754, 1160151048
+
+05/24/22 00:23:14 v1.34.5 @ 灰色战斗机, Processing expression: factor(468459887279781789188886188573017406548524570309663876064881031936564733341508945283407498306248145591559137207097347130203582813352382018491852922849186827279111555223982032271701972642438224730082216672110316142528108239708171781850491578433309964093293907697072741538649347894863899103340030347858867705231)
+
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2984.991300
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, New random seeds: 3065184944, 4219702688
+
+05/24/22 00:34:21 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2982.969000
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, New random seeds: 3583325965, 21121280
+
+05/24/22 00:37:39 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2985.708020
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, New random seeds: 3412760397, 1592537068
+
+05/24/22 00:41:16 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3003.918770
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, New random seeds: 2409096650, 583727636
+
+05/24/22 00:49:26 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3015.729740
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, New random seeds: 888934928, 985588352
+
+05/24/22 00:50:15 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 3014.123700
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, New random seeds: 2179751529, 2375376124
+
+05/24/22 00:51:33 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2978.085170
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, New random seeds: 2624960611, 2346398284
+
+05/24/22 01:04:52 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, System/Build Info: 
+Using GMP-ECM 6.3, Powered by GMP 5.1.1
+cached 78498 primes. pmax = 999983
+detected AMD Ryzen 5 4600H with Radeon Graphics         
+detected L1 = 32768 bytes, L2 = 8388608 bytes, CL = 64 bytes
+measured cpu frequency ~= 2998.984030
+using 20 random witnesses for Rabin-Miller PRP checks
+
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, New random seeds: 2661625398, 2143054400
+
+05/24/22 01:07:35 v1.34.5 @ 灰色战斗机, Processing expression: factor(10306247299477991196335954707897189353577589618180446614762218980226685668311143526740800444344046158260556585833057716406703213966249956775927205061731821632025483608182881492214855240841820024816859031176291364212054293818204399157346955465232586109199762630150640804366966946066155685218609638749171632685073)
+
